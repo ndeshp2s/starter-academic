@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 20
 
 title: Experience
 subtitle:
@@ -21,6 +21,15 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+experience:
+  - title: PhD Candidate
+    company: INRIA
+    company_url: ''
+    location: Grenoble, France
+    date_start: '2018-03-01'
+    date_end: ''
+    description: Working on the the decision-making and motion planning aspects of autonomous vehicle navigation using Deep Reinforcement Learning (DRL). The focus is on crowded urban environments with pedestrians and other vehicles.
 
 
 
