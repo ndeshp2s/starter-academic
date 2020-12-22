@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 65
 
 title: Projects
 subtitle: ''
@@ -29,8 +29,12 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Reinforcement Learning
+    tag: Reinforcement Learning
+  - name: Autonomous Navigation
+    tag: Autonomous Navigation
+  - name: IOT
+    tag: IOT
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
