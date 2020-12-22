@@ -22,5 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
+experience:
+  - title: PhD Candidate
+    company: INRIA
+    company_url: ''
+    location: Grenoble, France
+    date_start: '2018-03-01'
+    date_end: ''
+    description: Working on the the decision-making and motion planning aspects of autonomous vehicle navigation using Deep Reinforcement Learning (DRL). The focus is on crowded urban environments with pedestrians and other vehicles.
       
 ---
