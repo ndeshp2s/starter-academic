@@ -73,6 +73,7 @@ The focus of this research work has been on using Deep Reinforcement Learning fo
 The reseach is conducted in a collaborative framework between the lab INRIA and the Mathematics, Information Science and Technology, Computer Science (MSTII) Doctoral school of the Universitiy Grenoble-Alpes (UGA), both in the beautiful city of Grenoble.
 The research work is supervised by Anne Spalanzani and Dominique Vaufreydaz.
 
+
 I am also a robotics software enginner with 5 years of industrial experience.
 My previous work has been on mobile robot and autonomous vehicle navigation and perception, motion planning for robot manipulator and a little bit on internet of things (IOT).
 
