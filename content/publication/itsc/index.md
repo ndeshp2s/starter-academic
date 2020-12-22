@@ -27,7 +27,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Intelligent Transportation Systems Conference (ITSC)*
-publication_short: In *ITSC*
+#publication_short: In *ITSC*
 
 abstract: Autonomous navigation in structured urban environments amongst pedestrians is a challenging and less explored problem. In this work, we propose to use a deep reinforcement learning based method to solve this problem of navigation. A Deep Q-Network based agent is trained in a simulator for a typical intersection crossing setup amongst pedestrians. We propose a grid based representation as a state space input to the learning agent. With this grid based representation and our reward function the agent learns a policy capable of driving safely around pedestrians and also follow the traffic rules.
 
@@ -73,7 +73,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
