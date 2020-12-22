@@ -55,11 +55,6 @@ feature:
   icon: tensorflow-logo
   icon_pack: custom
   name: TensorFlow
- 
-- description:
-  icon: ros-logo
-  icon_pack: custom
-  name: ROS
   
 - description:
   icon: ros-logo
