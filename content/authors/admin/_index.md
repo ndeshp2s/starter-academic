@@ -27,7 +27,7 @@ education:
   courses:
   - course: Doctor of Philosophy (PhD)
     institution: University Grenoble Alpes
-    year: 2021
+    year: Present
   - course: Masters of Autonomous Systems (MAS)
     institution: Bonn-Rhein-Sieg University of Applied Sciences (BRSU)
     year: 2016
