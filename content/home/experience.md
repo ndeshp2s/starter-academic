@@ -38,6 +38,51 @@ experience:
     date_start: '2017-11-01'
     date_end: '2018-11-30'
     description: Was involved remotely in the development of software components for a robotic kitchen.
+    
+  - title: Research Engineer
+    company: The Hi-Tech Robotics Systems (UGV team)
+    company_url: ''
+    location: Gurgaon, India
+    date_start: '2016-04-01'
+    date_end: '2017-11-30'
+    description: |
+      Worked on the improvement and development of a navigation system for an outdoor autonomous shuttle.
+      
+      Developed Lane Departure Warning(LDW) and Forward Collision Warning(FCW) functionalities based on image processing for an Advanced Driver Assistance System(ADAS).
+      
+      Also worked on the integration of LIDAR and GNSS sensors for the autonomous shuttle.
+      
+  - title: Embedded Software Freelancer
+    company: SCADA SCOPE
+    company_url: 'https://www.scadascope.com/'
+    location: Sydney, Australia
+    date_start: '2014-08-01'
+    date_end: '2016-03-31'
+    description: Was involved remotely in embedded software development for an IOT based monitoring system. The project was a commercial water pressure and volume monitoring system for automated maintenance, warning and response alerts by Internet and SMS services.
+    
+  - title: Research Intern
+    company: INRIA
+    company_url: 'https://www.scadascope.com/'
+    location: Grenoble, France
+    date_start: '2015-06-01'
+    date_end: '2015-11-30'
+    description: The objective was to develop a mobile robot navigation system which could generate and execute plans for pushing an object in situations where a robot cannot navigate by just avoiding objects and has to reposition an object to find a path to its goal.
+    
+  - title: Research Intern
+    company: ENSTA ParisTech
+    company_url: ''
+    location: Paris, France
+    date_start: '2014-10-01'
+    date_end: '2015-03-31'
+    description: The objective was to develop planning and obstacle avoidance strategies that take the type of objects into account to be able to react(navigate) differently as a function of the context. 
+    
+  - title: Research Assistant
+    company: Institute of Visual Computing (BRSU)
+    company_url: ''
+    location: Bonn, Germany
+    date_start: '2014-06-01'
+    date_end: '2014-10-31'
+    description: Worked on the design and development of novel interactive devices for 2D and 3D interaction. Specifically, the work encompassed the rapid prototyping of devices and interaction techniques using sensor and actuators controlled over Arduino and Unity3D.
 
 
 
