@@ -83,6 +83,36 @@ experience:
     date_start: '2014-06-01'
     date_end: '2014-10-31'
     description: Worked on the design and development of novel interactive devices for 2D and 3D interaction. Specifically, the work encompassed the rapid prototyping of devices and interaction techniques using sensor and actuators controlled over Arduino and Unity3D.
+    
+  - title: Research Assistant
+    company: Institute of Visual Computing (BRSU)
+    company_url: ''
+    location: Bonn, Germany
+    date_start: '2013-01-01'
+    date_end: '2013-06-30'
+    description: Worked on a project called SimuBridge to develop a generic, independent from Programmable Logic Controller (PLC) vendor, a visual simulator of devices, systems and industrial plants. Major focus was on realistic simulation of devices and their physical characteristics, realistic behaviorand reaction of the simulator on the real control signals, correct visual representation of real-time events and modulated signals with low latency.
+    
+  - title: Team Lead & Co-Owner
+    company: Omni Mentors Academy
+    company_url: ''
+    location: Nasik, India
+    date_start: '2011-01-01'
+    date_end: '2012-12-31'
+    description: |
+      Developed embedded training kits for robotics and embedded systems educational workshops.
+    
+      Conducted robotics training workshops for school and bachelors students.
+    
+      Also involved in spreading awareness and knowledge about robotics in rural and urban parts ofIndia.
+      
+  - title: Robotics Engineer
+    company: Fennec Fox Technologies
+    company_url: ''
+    location: Pune, India
+    date_start: '2009-08-01'
+    date_end: '2010-12-31'
+    description: Was involved in the research, design and development of a service robot ESKORTA- A low cost,multi purpose, autonomous mobile robot for service industries like hospitals, warehouses, airports,etc.
+      
 
 
 
