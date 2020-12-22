@@ -1,5 +1,5 @@
 ---
-title: "IEEE Intelligent Transportation Systems Conference"
+title: "Deep Reinforcement Learning based Vehicle Navigation amongst pedestrians using a Grid-based state representation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
