@@ -18,9 +18,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Decision Making & Autonomous Navigation
 - Deep Reinforcement Learning
-- Autonomous Navigation
+- Machine Learning
+- Semantic Mapping
 - Robot Operating System (ROS)
 
 # Education to show in About widget
