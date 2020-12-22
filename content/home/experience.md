@@ -30,5 +30,13 @@ experience:
     date_start: '2018-03-01'
     date_end: ''
     description: Working on the the decision-making and motion planning aspects of autonomous vehicle navigation using Deep Reinforcement Learning (DRL). The focus is on crowded urban environments with pedestrians and other vehicles.
+    
+  - title: Robotics Software Engineer
+    company: Moley Robotics
+    company_url: 'https://moley.com/'
+    location: London, United Kingdom
+    date_start: '2017-11-01'
+    date_end: '2018-11-30'
+    description: Was involved remotely in the development of software components for a robotic kitchen.
       
 ---
