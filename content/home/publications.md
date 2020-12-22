@@ -4,10 +4,13 @@
 widget: pages
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 40
+
+# Activate this widget? true/false
+active: false
 
 title: Recent Publications
 subtitle: ''
