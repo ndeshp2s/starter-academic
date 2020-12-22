@@ -38,6 +38,10 @@ feature:
   icon: python-logo
   icon_pack: custom
   name: Python
+- description:
+  icon: embedc-logo
+  icon_pack: custom
+  name: Embedded C
   
 - description:
   icon: pytorch-logo
@@ -51,16 +55,25 @@ feature:
   icon: tensorflow-logo
   icon_pack: custom
   name: TensorFlow
-  
+ 
 - description:
   icon: ros-logo
   icon_pack: custom
   name: ROS
   
 - description:
-  icon: opencv-logo
+  icon: ros-logo
   icon_pack: custom
-  name: OpenCV
+  name: ROS
+- description:
+  icon: gazebo-logo
+  icon_pack: custom
+  name: GAZEBO
+  
+- description:
+  icon: arduino-logo
+  icon_pack: custom
+  name: Arduino
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
