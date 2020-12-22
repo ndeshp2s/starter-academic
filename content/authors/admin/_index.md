@@ -21,6 +21,7 @@ interests:
 - Artificial Intelligence
 - Deep Reinforcement Learning
 - Autonomous Navigation
+- Robot Operating System (ROS)
 
 # Education to show in About widget
 education:
@@ -67,6 +68,12 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate at Inria, Grenoble, France working on autonomous vehcile navigation in urban environments using Deep Reinforcement Learning. I am also a robotics software enginner and posses industrial and research experience in mobile robotics and autonomous vehicles domain.
+I am a PhD candidate working in the filed of autonomous vehicle navigation in urban environments.
+The focus of this research work has been on using Deep Reinforcement Learning for solving autonomous navigation problem. 
+The reseach is conducted in a collaborative framework between the lab INRIA and the Mathematics, Information Science and Technology, Computer Science (MSTII) Doctoral school of the Universitiy Grenoble-Alpes (UGA), both in the beautiful city of Grenoble.
+The research work is supervised by Anne Spalanzani and Dominique Vaufreydaz.
+
+I am also a robotics software enginner with 5 years of industrial experience.
+My previous work has been on mobile robot and autonomous vehicle navigation and perception, motion planning for robot manipulator and a little bit on internet of things (IOT).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Curriculum_Vitae.pdf" "newtab" >}}CV{{< /staticref >}}.
