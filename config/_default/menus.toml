@@ -28,10 +28,10 @@
   url = "#skills"
   weight = 50
 
-[[main]]
-  name = "REFERENCES"
-  url = "#References"
-  weight = 60
+#[[main]]
+#  name = "REFERENCES"
+#  url = "#References"
+#  weight = 60
   
 [[main]]
   name = "CONTACT"
