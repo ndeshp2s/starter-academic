@@ -69,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD candidate working in the filed of autonomous driving.
+I am a PhD candidate working in the field of Autonomous Driving.
 The focus of this research work has been on using Deep Reinforcement Learning for solving autonomous navigation problem in urban environments. 
 The reseach is conducted in a collaborative framework between the lab INRIA and the Mathematics, Information Science and Technology, Computer Science (MSTII) Doctoral School of the Universitiy Grenoble-Alpes (UGA), both in the beautiful city of Grenoble.
 The research work is supervised by Anne Spalanzani and Dominique Vaufreydaz.
