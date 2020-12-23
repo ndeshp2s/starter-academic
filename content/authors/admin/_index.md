@@ -76,6 +76,6 @@ The research work is supervised by Anne Spalanzani and Dominique Vaufreydaz.
 
 
 I am also a robotics software enginner with 5 years of industrial experience.
-My previous work has been on mobile robot and autonomous vehicle navigation and perception, motion planning for robot manipulator and a little bit on internet of things (IOT).
+My previous work has been on mobile robot and autonomous vehicle navigation and perception, motion planning for robot manipulator and a little bit on internet of things (IOT), Embedded systems and Programmable Logic Controllers (PLCs).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Curriculum_Vitae.pdf" "newtab" >}}CV{{< /staticref >}}.
